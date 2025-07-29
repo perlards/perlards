@@ -3,6 +3,12 @@
 
 🎓 I'm a Computer Science student at **Boston University**, passionate about **frontend development**, **AI integration**, and building impactful tech projects.
 
+### 💬 Terminal Intro
+```bash
+> Hello world!
+> Currently working on: A website for a coffee food truck!
+> Fun fact: I once debugged for 3 hours... then realized I had an extra space.
+
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)
@@ -19,9 +25,11 @@
 - 💬 A **chatbot** that introduces me based on my resume and experiences
 - 🛠️ Continuously improving my portfolio and skills in React, JavaScript, and Python
 
-
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=perlards&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=perlards&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![Joke](https://readme-jokes.vercel.app/api)
+
