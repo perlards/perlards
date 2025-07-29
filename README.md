@@ -3,7 +3,7 @@
 
 🎓 I'm a Computer Science student at **Boston University**, passionate about **frontend development**, **AI integration**, and building impactful tech projects.
 
-### 💬 Terminal Intro
+## 💬 Terminal Intro
 ```bash
 > Hello world!
 > Currently working on: A website for a coffee food truck!
