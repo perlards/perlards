@@ -8,7 +8,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=perlards&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=perlards&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
