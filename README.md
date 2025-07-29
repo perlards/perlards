@@ -8,12 +8,11 @@
 > Hello world!
 > Currently working on: A website for a coffee food truck!
 > Fun fact: I once debugged for 3 hours... then realized I had an extra space.
-
+```
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/perlards)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:perlards04@gmail.com)
 
 
 # 💻 Tech Stack:
