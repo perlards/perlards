@@ -1,7 +1,7 @@
 
 # Hi, I'm Perla Ruiz 👋
 
-## 🎓 I'm a Computer Science student at **Boston University**, passionate about **frontend development**, **AI integration**, and building impactful tech projects.
+🎓 I'm a Computer Science student at **Boston University**, passionate about **frontend development**, **AI integration**, and building impactful tech projects.
 
 ## 💬 
 ```bash
