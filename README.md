@@ -6,7 +6,6 @@
 ## 💬 Terminal Intro
 ```bash
 > Hello world!
-> Currently working on: A website for a coffee food truck!
 > Fun fact: I once debugged for 3 hours... then realized I had an extra space.
 ```
 ## 🌐 Let's Connect
