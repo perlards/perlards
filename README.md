@@ -15,7 +15,7 @@
 - 💬 A **chatbot** that introduces me based on my resume and experiences
 - 🛠️ Continuously improving my portfolio and skills in React, JavaScript, and Python
 
- ## 🐍 Contribution Snake
+ ## 🐍 
 
 ![snake gif](https://github.com/perlards/perlards/blob/output/github-contribution-grid-snake.svg) 
 
