@@ -14,9 +14,8 @@
 -  A **chatbot** that introduces me based on my resume and experiences
 -  Continuously improving my portfolio and skills in React, JavaScript, and Python
 
- ## 🐍 
 
-![snake gif](https://github.com/perlards/perlards/blob/output/github-contribution-grid-snake.svg) 
+![GitHub Snake](https://raw.githubusercontent.com/perlards/perlards/output/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=perlards&theme=transparent&hide_border=true)<br/>
