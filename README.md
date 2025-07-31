@@ -10,9 +10,9 @@
 
 ## 💻 What I'm Working On
 
-- 🧠 An **AI-powered personal website** with Gemini integration
-- 💬 A **chatbot** that introduces me based on my resume and experiences
-- 🛠️ Continuously improving my portfolio and skills in React, JavaScript, and Python
+-  An **AI-powered personal website** with Gemini integration
+-  A **chatbot** that introduces me based on my resume and experiences
+-  Continuously improving my portfolio and skills in React, JavaScript, and Python
 
  ## 🐍 
 
