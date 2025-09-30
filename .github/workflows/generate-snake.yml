@@ -15,7 +15,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-         args: --years 1
+          
 
 
       - name: Push to GitHub
